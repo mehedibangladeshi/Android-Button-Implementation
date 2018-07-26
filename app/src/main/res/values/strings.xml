@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android OnCLick</string>
+    <string name="button_1_text">Button 1 Clicked!</string>
+    <string name="button_2_text">button 2 clicked</string>
+    <string name="button_3_text">button 3 clicked</string>
+    <string name="button_4_text">button 4 clicked</string>
+</resources>
